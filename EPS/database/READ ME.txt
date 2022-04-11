@@ -1,0 +1,5 @@
+1. Open Xampp control panel
+2. Start both Xampp and Mysql in the control panel
+3. Click the admin from the Mysql row
+4. Create a database and the name is market
+5. Lastly, import it in the same database and locate the market.sql file
